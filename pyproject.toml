@@ -1,0 +1,11 @@
+[project]
+name = "castella-audio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "msclap>=1.3.4",
+    "torchcodec>=0.8.0",
+    "yt-dlp>=2025.10.14",
+]

@@ -3,8 +3,9 @@ This repository contains scripts related to audio data of CASTELLA.
 - Downloader
 - Feature extractor using MS-CLAP 2023
 
+Due to changes in the specifications of the download source, the downloader may not function correctly. If this happens, please open an issue
+
 # How to use?
-### Requirements
 ### Download audio
 ```bash
 uv sync
